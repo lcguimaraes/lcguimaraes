@@ -5,7 +5,6 @@
 ⚡ Experience with EMV, ISO8583 and payment integrations  
 
 - 💼 Currently working with payment solutions and SmartPOS devices
-- 🚀 Building a mini POS system (Flutter + Android native integration)
 - 🌱 Currently learning Kotlin and deep diving into MVVM architecture
 - 🧠 Interested in scalable systems, fintech and embedded solutions
 
@@ -15,12 +14,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcguimaraes&layout=compact&langs_count=10&theme=tokyonight"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Lucas-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Lucas-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
-  <img align="center" alt="Lucas-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Lucas-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-  <img align="center" alt="Lucas-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Lucas-Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-</div>
+<p align="left">
+  <img alt="Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img alt="Kotlin" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+  <img alt="Android" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
+  <img alt="Gradle" height="30" src="https://cdn.simpleicons.org/gradle">
+  <img alt="C" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img alt="Node.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img alt="Flutter" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  <img alt="Dart" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+</p>
